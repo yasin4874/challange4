@@ -1,13 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Hegarty&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Work+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Hegarty&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Work+Sans&display=swap');
 
+:root{
+    --primar-Color: #505050;
+}
 * {
     margin: 0;
     font-family: 'inter';
 }
 
 body {
-    background-color: #F4F4F4;
+    /* background-color: #F4F4F4; */
+    background-color: var( --primar-Color)
 }
 
 .container1 {
