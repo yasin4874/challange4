@@ -87,7 +87,7 @@ input::-webkit-inner-spin-button {
     padding: 50px 30px;
     background-color: white;
     text-align: center;
-    border-radius: 2px;
+    border-radius: 4px;
 }
 
 .container2 div h5 {
